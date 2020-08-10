@@ -1,0 +1,22 @@
+#pic1 {
+    text-align: center;
+}
+div {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: rgb(230, 182, 95);
+    /*background-color: orange; */
+}
+* {
+    background-color: rgb(9, 92, 139);
+}
+a {
+    color: white;
+    text-decoration: none;
+}
+#credit {
+    font-size: small;
+    text-align: center;
+}

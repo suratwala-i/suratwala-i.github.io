@@ -1,0 +1,27 @@
+#img {
+    text-align: center;
+}
+* {
+    background-color: rgb(9, 92, 139);
+    color: white;
+}
+a {
+    color: orangered;
+    text-decoration: none;
+    font-weight: bold;
+}
+h1,h2,h3 {
+    text-align: center;
+}
+#NextLink {
+    text-align: center;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.other {
+    text-align: center;
+}
+h1 {
+    color: rgb(230, 182, 95);
+}
